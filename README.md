@@ -1,0 +1,2 @@
+# Simple-Regression-Tree
+In this I have build a decision tree regressor model after preprocessing the data related to movies collection. After that I have plotted the decision tree using pydotplus library and pruned the tree on these three criteria (maximum no. of levels, Minimum observations at internal node and Minimum observations at leaf node)
